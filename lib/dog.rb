@@ -7,4 +7,6 @@ class Dog
   self.all
   end
 
+
+
 end
