@@ -2,7 +2,7 @@ require 'pry'
 class Dog
   @@all = []
 
-  def initialize(name)
+  def new(name)
     @name = name
     @@all << self
   end
