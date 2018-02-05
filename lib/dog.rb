@@ -3,4 +3,8 @@ class Dog
 
   self.clear_all
   end
+
+  self.all
+  end
+
 end
