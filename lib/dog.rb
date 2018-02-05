@@ -1,3 +1,6 @@
 class Dog
   @@all = []
-end 
+
+  self.clear_all
+  end
+end
